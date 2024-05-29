@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114411849684",
+    "project_id": "musichunt-2bb7a",
+    "storage_bucket": "musichunt-2bb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114411849684:android:958a8d18142e18a2943841",
+        "android_client_info": {
+          "package_name": "com.example.music_hunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobS1Qkqu50ptUJQPSQF8X_chzz-HulNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
